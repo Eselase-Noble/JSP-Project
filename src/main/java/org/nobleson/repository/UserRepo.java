@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class UserRepo implements UserRepository {
+
     @Override
     public AppUsers addUser(AppUsers user) throws SQLException {
 

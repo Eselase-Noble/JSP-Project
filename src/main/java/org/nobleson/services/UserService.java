@@ -1,7 +1,6 @@
 package org.nobleson.services;
 
 import org.nobleson.models.AppUsers;
-import org.nobleson.models.Student;
 import org.nobleson.repository.UserRepo;
 
 import java.sql.SQLException;
